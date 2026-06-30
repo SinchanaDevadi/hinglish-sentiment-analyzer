@@ -7,7 +7,7 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-🔗 **[Live Demo →](https://your-app-name.streamlit.app)** ← *(replace after deploying)*
+🔗 **[Live Demo →](https://your-app-name.streamlit.app)**
 
 ---
 
@@ -96,7 +96,7 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-*(Add screenshots of your Streamlit app here after running it)*
+
 
 ---
 
